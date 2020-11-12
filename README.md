@@ -1,3 +1,5 @@
-# Assignment 3
-Commit your code into the Source.cpp
-You can find the information in https://github.com/airbenders/Airbenders-wiki/wiki/ROS-Paketi-Olu%C5%9Fturma_Git-Komutlar%C4%B1 
+# Assignment
+Görevlerini Slack'e atmak yerine kütüphanende bulunan Source.cpp adlı dosyaya göndermelisin.
+  * Bu linke tıkla: [Airbenders-wiki](https://github.com/airbenders/Airbenders-wiki/wiki)
+* Ekranın sağına bak. Git Komutları adlı dosyada izlemen gereken adımlar mevcut!
+* Sorun olursa sormaktan çekinme.
