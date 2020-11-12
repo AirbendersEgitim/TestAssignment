@@ -5,5 +5,5 @@ Görevlerini Slack'e atmak yerine kütüphanende bulunan Source.cpp adlı dosyay
 * Sorun olursa sormaktan çekinme.
 
 Bu assignment test olarak gönderilmiştir. Source.cpp yi kendi isminizi konsola yazdıracak şekilde
-düzenlemeniz yeterlidir. Lütfen GitHub üzerinden değil, kendi bilgisayarınızıdaki yerel repo üzerinden
+düzenlemeniz yeterlidir. Lütfen GitHub üzerinden değil, kendi bilgisayarımızıdaki yerel repo üzerinden
 düzenleyelim.
